@@ -1,0 +1,3 @@
+I just created empty remore repository from github.com account
+
+And cloned this repository by clicking on Set up in Desktop --> clone
